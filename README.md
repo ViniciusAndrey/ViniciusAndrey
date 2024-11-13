@@ -17,8 +17,8 @@
 
 ### Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPresilli&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
-[![GitHub Streak](https://streak-stats.demolab.com?user=GustavoPresilli&hide_border=true&theme=transparent)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrey&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusAndrey&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPresilli&theme=transparent&show_icons=true&hide_border=true&card_width=250)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndrey&theme=transparent&show_icons=true&hide_border=true&card_width=250)
 
