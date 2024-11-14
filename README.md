@@ -18,7 +18,7 @@
 ### Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrey&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusAndrey&hide_border=true&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusAndrey&hide_border=true&theme=transparent)]
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndrey&theme=transparent&show_icons=true&hide_border=true&card_width=250)
 
