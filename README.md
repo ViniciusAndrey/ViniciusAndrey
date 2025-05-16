@@ -1,7 +1,7 @@
 ### 👋
 
 ### About Me
-🎓 Computer Science Student at ([SPTech](https://www.sptech.school/))
+🎓 Computer Science Student
 
 
 ### Tech Stack
