@@ -177,12 +177,12 @@
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa&icon_color=71717a"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusAndrey&show_icons=true&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa&icon_color=71717a"
   />
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrey&layout=compact&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa"
   />
 
 </div>
@@ -192,7 +192,7 @@
 <div align="center">
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=09090B&stroke=27272A&ring=A1A1AA&fire=A1A1AA&currStreakLabel=A1A1AA"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusAndrey&theme=dark&hide_border=true&background=09090B&stroke=27272A&ring=A1A1AA&fire=A1A1AA&currStreakLabel=A1A1AA"
   />
 
 </div>
@@ -202,7 +202,7 @@
 <div align="center">
 
   <img
-    src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=flat-square&color=27272a&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=ViniciusAndrey&style=flat-square&color=27272a&label=PROFILE+VIEWS"
   />
 
 </div>
